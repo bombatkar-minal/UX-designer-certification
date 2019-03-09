@@ -1,8 +1,10 @@
 # UX-designer-exam-questions
 
+- useful links from my search  
 > https://www.invisionapp.com/inside-design/become-ux-designer/  
+> http://uxpamagazine.org/the-ux-portfolio-your-golden-ticket-to-job-interviews/  
 
-http://uxpamagazine.org/the-ux-portfolio-your-golden-ticket-to-job-interviews/
+ 
 https://purple-cinnamon-ah68.squarespace.com/config/
 https://hackdesign.org/toolkit
 
