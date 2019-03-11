@@ -19,5 +19,6 @@ https://www.uxbooth.com/articles/creating-personas/
 https://www.interaction-design.org/literature/article/ideation-for-design-preparing-for-the-design-race
  
 * [list of 2019-ux-conferences](https://www.invisionapp.com/inside-design/2019-ux-conferences/)
+  Guide to visual design (https://www.usability.gov/what-and-why/visual-design.html)
 
 
