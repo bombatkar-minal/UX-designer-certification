@@ -23,4 +23,6 @@ https://www.interaction-design.org/literature/article/ideation-for-design-prepar
 * [Guide to visual design](https://www.usability.gov/what-and-why/visual-design.html)
 
 * [Guide to prototyping](https://www.uxpin.com/studio/blog/what-is-a-prototype-a-guide-to-functional-ux/)
+* [wireframing software by trying out the free wireframing tool](https://wireframe.cc/)
+* [why user testing is so important](https://usabilla.com/blog/importance-user-testing/)
 
