@@ -17,6 +17,7 @@ https://www.ceros.com/originals/why-does-user-experience-matter/
 https://www.invisionapp.com/inside-design/ux-principles-to-guide-your-product-design/
 https://www.uxbooth.com/articles/creating-personas/
 https://www.interaction-design.org/literature/article/ideation-for-design-preparing-for-the-design-race
+* [UX-for-beginners](https://uxplanet.org/ux-for-beginners/home)
  
 * [list of 2019-ux-conferences](https://www.invisionapp.com/inside-design/2019-ux-conferences/)  
 * [the key elements for good information architecture](https://visual.ly/community/infographic/technology/eight-principles-information-architecture)  
@@ -25,4 +26,6 @@ https://www.interaction-design.org/literature/article/ideation-for-design-prepar
 * [Guide to prototyping](https://www.uxpin.com/studio/blog/what-is-a-prototype-a-guide-to-functional-ux/)
 * [wireframing software by trying out the free wireframing tool](https://wireframe.cc/)
 * [why user testing is so important](https://usabilla.com/blog/importance-user-testing/)
+* [How To Use The System Usability Scale (SUS) To Evaluate The Usability Of Your Website](https://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
+* [ A beginner’s guide to A/B testing](https://medium.com/@InVisionApp/a-b-and-see-a-beginner-s-guide-to-a-b-testing-a16406f1a239)
 
