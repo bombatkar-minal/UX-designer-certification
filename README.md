@@ -29,4 +29,13 @@ https://www.interaction-design.org/literature/article/ideation-for-design-prepar
 * [How To Use The System Usability Scale (SUS) To Evaluate The Usability Of Your Website](https://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
 * [ A beginner’s guide to A/B testing](https://medium.com/@InVisionApp/a-b-and-see-a-beginner-s-guide-to-a-b-testing-a16406f1a239)
 * [ Creating webpages using HTML, CSS](https://www.codecademy.com/learn/learn-html)
+* [Steps to start the blog](https://indiangirling.com/start-a-travel-blog/)
+* [Tools for the blog](https://indiangirling.com/blogging-tools//)
+* [Tools for Grapphics](https://www.canva.com/templates/social-graphics/pinterest-graphic/)
+* [Free photos](https://pixabay.com/)
+* [Free photos](https://unsplash.com/)
+* [Create bog using wordpress](https://www.youtube.com/watch?v=NdVHrTRD3wU)
+* [Free photos](https://pixabay.com/)* [Free photos](https://pixabay.com/)* [Free photos](https://pixabay.com/)
+
+
 
