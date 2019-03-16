@@ -35,7 +35,9 @@ https://www.interaction-design.org/literature/article/ideation-for-design-prepar
 * [Free photos](https://pixabay.com/)
 * [Free photos](https://unsplash.com/)
 * [Create bog using wordpress](https://www.youtube.com/watch?v=NdVHrTRD3wU)
-* [Free photos](https://pixabay.com/)* [Free photos](https://pixabay.com/)* [Free photos](https://pixabay.com/)
+* [Logo making Easy way](https://logomaker.thehoth.com/)
+* [start freelancing](https://www.fiverr.com/)
+* [Free photos](https://pixabay.com/)
 
 
 
