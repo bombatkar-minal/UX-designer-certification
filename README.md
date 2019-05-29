@@ -2,7 +2,7 @@
 All the courses and resources can be found in the links below: 
 
 Udacity - Product Design 
-https://eu.udacity.com/course/product...
+https://eu.udacity.com/course/product-design--ud509
 
 Invision - Short Webinars 
 https://www.invisionapp.com/webinars
@@ -14,13 +14,13 @@ Coursera - UX Courses
 https://www.coursera.org/learn/user-e...
 
 Future Learn - Digital Skills / Learn UX 
-https://www.futurelearn.com/courses/d...
+https://www.futurelearn.com/courses/digital-skills-user-experience
 
 Hack Design 
 https://hackdesign.org/
 
 Invision - Principles of UX Design 
-https://www.invisionapp.com/ecourses/...
+https://www.invisionapp.com/ecourses/principles-of-ux-design
 
 Lynda - (Free Trial period) UX Courses 
 https://www.lynda.com/search?q=Ux
@@ -29,16 +29,16 @@ Google's Material Design Guidelines
 https://material.io/design/
 
 Envato Tutorials 
-https://webdesign.tutsplus.com/catego...
+https://webdesign.tutsplus.com/categories/ux
 
 UX Collective (Medium) from Johnny Vino 
-https://uxdesign.cc/ultimate-start-gu...
+https://uxdesign.cc/ultimate-start-guide-for-beginner-ux-ui-designer-b848be089589?gi=f8880577ec5e
 
-Smashing Magazine - UX Ui Articles (16:47):
-https://www.smashingmagazine.com/cate...
+Smashing Magazine - UX Ui Articles 
+https://www.smashingmagazine.com/category/user-experience
 
-Medium / Muzli articles (17:50):
-https://medium.muz.li/
+Medium / Muzli articles 
+https://medium.muz.li/?gi=69289ad26564
 
 
 
