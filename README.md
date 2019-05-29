@@ -1,8 +1,52 @@
+#Free UX course  
+All the courses and resources can be found in the links below: 
+
+Udacity - Product Design 
+https://eu.udacity.com/course/product...
+
+Invision - Short Webinars 
+https://www.invisionapp.com/webinars
+
+Design Better 
+https://www.designbetter.co/
+
+Coursera - UX Courses 
+https://www.coursera.org/learn/user-e...
+
+Future Learn - Digital Skills / Learn UX 
+https://www.futurelearn.com/courses/d...
+
+Hack Design 
+https://hackdesign.org/
+
+Invision - Principles of UX Design 
+https://www.invisionapp.com/ecourses/...
+
+Lynda - (Free Trial period) UX Courses 
+https://www.lynda.com/search?q=Ux
+
+Google's Material Design Guidelines 
+https://material.io/design/
+
+Envato Tutorials 
+https://webdesign.tutsplus.com/catego...
+
+UX Collective (Medium) from Johnny Vino 
+https://uxdesign.cc/ultimate-start-gu...
+
+Smashing Magazine - UX Ui Articles (16:47):
+https://www.smashingmagazine.com/cate...
+
+Medium / Muzli articles (17:50):
+https://medium.muz.li/
+
+
+
 # https://thegymnasium.com/login  
 
 
-# UX-designer-exam-questions
-- Accenture certification
+# UX-designer-exam-questions: Accenture certification
+- 
 - useful links from my search  
 > https://www.invisionapp.com/inside-design/become-ux-designer/  
 > http://uxpamagazine.org/the-ux-portfolio-your-golden-ticket-to-job-interviews/  
